@@ -12,9 +12,7 @@ HTML
 
 Include the script in your file and apply the plugin like this
 ```JavaScript
-<script>
-  jQuery('.cover-my-wrapper').coverImage();
-</script>
+jQuery('.cover-my-wrapper').coverImage();
 ```
 
 ## License
