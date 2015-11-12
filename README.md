@@ -1,2 +1,21 @@
 # cover-image
-A simple lightweight jQuery plugin that makes images cover their wrappers perfectly
+A simple lightweight jQuery plugin that makes images cover their wrappers perfectly.
+
+## Use
+
+HTML
+```
+<div>
+  <img src="image.png" class="cover-my-wrapper">
+</div>
+```
+
+Include the script in your file and apply the plugin like this
+```
+<script>
+  jQuery('.cover-my-wrapper').coverImage();
+</script>
+```
+
+## License
+Released under the MIT license.
