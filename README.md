@@ -10,7 +10,7 @@ HTML
 </div>
 ```
 
-Include the script in your file and apply the plugin like this
+Include the script in your page and apply the plugin like this
 ```JavaScript
 jQuery('.cover-my-wrapper').coverImage();
 ```
